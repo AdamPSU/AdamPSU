@@ -21,15 +21,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## GitHub Stats
+## 🎧 What I'm listening to 🎧
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdamPSU&theme=ambient_gradient&hide_border=false)
-
-
-
-
-## 🎧 What I am listening to 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=49g1pe18e5cf7t6f7cj1vbjtp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31bqqior62rs6m4rewpadlcws2oa)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqqior62rs6m4rewpadlcws2oa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffd35c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
