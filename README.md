@@ -1,17 +1,29 @@
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I'm
+                <b><a target="_blank" href="https://www.linkedin.com/in/adam-torres-encarnacion/">Adam Torres Encarnacion</a></b>
+        </samp>
+</h3>
+<br>
 
-### Hey there 👋
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a Machine Learning Intern @ <b>Lockheed Martin</b> 」
+                <br>
+                「 Data Science & Statistics @ <b>Pennsylvania State University</b> 」
+                <br>
+                「 Talk to me about <b>Machine Learning</b>!!!」
+                <br>
+                <br>
+        </samp>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamPSU&theme=prussian&hide_border=false" alt="AdamPSU's Streak">
+</p>
 
-- 🚀 ML Intern @ Lockheed Martin
-- 📈 Data Science & Statistics @ Pennsylvania State University
-- ⚡ Talk to me about Machine Learning!!!
- 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:admr0805@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-torres-encarnacion/)
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## Machine Learning
@@ -22,5 +34,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 🎧 What I'm listening to 🎧
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqqior62rs6m4rewpadlcws2oa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffd35c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
