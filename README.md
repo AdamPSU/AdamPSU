@@ -9,7 +9,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a AI Engineering Intern @ <b>IBM</b> 」
+                「 I'm an AI Engineering Intern @ <b>IBM</b> 」
                 <br>
                 「 Data Science & Statistics @ <b>Pennsylvania State University</b> 」
                 <br>
