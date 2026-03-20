@@ -21,13 +21,19 @@
 
 ### Experience
 
+<div align="center">
+
 [![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com)
 [![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://ibm.com)
 [![Lockheed Martin](https://img.shields.io/badge/Lockheed_Martin-005CB9?style=for-the-badge&logoColor=white)](https://lockheedmartin.com)
 
+</div>
+
 ---
 
 ### Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,6 +62,8 @@
 ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash&logoColor=white)
 
+</div>
+
 ---
 
 ### GitHub Stats
@@ -77,4 +85,8 @@
 
 ### 🎧 What I'm Listening To
 
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqqior62rs6m4rewpadlcws2oa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffd35c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
