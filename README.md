@@ -40,14 +40,3 @@
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqqior62rs6m4rewpadlcws2oa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffd35c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-<h2 align="center">let's connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-torres-encarnacion)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:art5809@psu.edu)
-
-</div>
